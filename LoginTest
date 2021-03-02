@@ -1,0 +1,15 @@
+public class Login {
+//	1. open the web Browser (chrome /IE / Firefox)
+//	2. open URL http://opensource-demo.orangelive.com/
+//	3. Enter Username (Admin)
+//	4. Enter password (admin123)
+//	5. Click on Login 
+//	6. capture title of the home page
+//	7. verify the title of homepage: OrangeHRM
+//	8. close the browser
+  
+	public static void main(String args[])
+	{
+		 System.setProperty("webdriver.chrome.driver", )
+	}
+}
